@@ -27,11 +27,6 @@ p{
     color: white;
 }
 
-div#texto{
-    padding: 5px;
-    width: 38%;
-    margin: auto;
-    height: 24vh;
-    background-color: rgba(172, 8, 8, 0.603);
-    border: 1px solid rgba(0, 0, 0, 0.795);
+main{
+    text-align: center;
 }
